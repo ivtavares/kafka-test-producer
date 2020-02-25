@@ -1,0 +1,182 @@
+{
+  "merchant": [
+    {
+      "id": 1,
+      "name": "Coco Bambu BH Restaurante",
+      "address": {
+        "formattedAddress": "R. Francisco Deslandes, 900 Belo Horizonte - MG, 30310-530",
+        "country": "BR",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Anchieta",
+        "streetName": "R. Francisco Deslandes",
+        "streetNumber": "900",
+        "postalCode": "30310530"
+      },
+      "item": [
+        {
+          "name": "Peixe pizzaiolo 3 pessoa",
+          "price": 96.85
+        },
+        {
+          "name": "Filé a parmegiana",
+          "price": 74.85
+        },
+        {
+          "name": "Camarão praia de itamaracá",
+          "price": 68.85
+        },
+        {
+          "name": "Carne de sol do sertão",
+          "price": 68.85
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Restaurante SantaFé",
+      "address": {
+        "formattedAddress": "R. Pernambuco, 800 - Funcionários, Belo Horizonte - MG, 30140-111",
+        "country": "BR",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Funcionários",
+        "streetName": "R. Pernambuco",
+        "streetNumber": "800",
+        "postalCode": "30140111"
+      },
+      "item": [
+        {
+          "name": "Macarrão a bolonhesa",
+          "price": 27.5
+        },
+        {
+          "name": "File de salmão ao molho de laranja",
+          "price": 68.75
+        },
+        {
+          "name": "Pata com arroz e castanha",
+          "price": 75
+        },
+        {
+          "name": "Feijoada vegana",
+          "price": 45.9
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gendai - Caiçara",
+      "address": {
+        "formattedAddress": "Av. Olegário Maciel - Lourdes, Belo Horizonte - MG, 30180-110",
+        "country": "BR",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Lourdes",
+        "streetName": "Av. Olegário Maciel",
+        "streetNumber": "SN",
+        "postalCode": "30180110"
+      },
+      "item": [
+        {
+          "name": "Meio Poke Ceciche Mix com Arroz",
+          "price": 14.99
+        },
+        {
+          "name": "Chicken Domburi",
+          "price": 23.9
+        },
+        {
+          "name": "Temaki Salmão",
+          "price": 20.9
+        },
+        {
+          "name": "Boat Maki",
+          "price": 59.1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Eddie Fine Burger - Lourdes",
+      "address": {
+        "formattedAddress": "Av. Olegário Maciel, 1600 - Lourdes, Belo Horizonte - MG, 30180-111",
+        "country": "BR",
+        "state": "MG",
+        "city": "Belo Horizonte",
+        "neighborhood": "Lourdes",
+        "streetName": "Av. Olegário Maciel",
+        "streetNumber": "1600",
+        "postalCode": "30180111"
+      },
+      "item": [
+        {
+          "name": "Classic Cheeseburguer",
+          "price": 30.9
+        },
+        {
+          "name": "Green Peace",
+          "price": 36.1
+        },
+        {
+          "name": "Italian Style",
+          "price": 38.7
+        },
+        {
+          "name": "Mr. Pork",
+          "price": 35.6
+        }
+      ]
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "name": "Paulo",
+      "sex": "m",
+      "age": 23,
+      "latitude": -19.927338,
+      "longitude": -43.956083
+    },
+    {
+      "id": 2,
+      "name": "Clara",
+      "sex": "f",
+      "age": 19,
+      "latitude": -19.931102,
+      "longitude": -43.941898
+    },
+    {
+      "id": 3,
+      "name": "Antônio",
+      "sex": "m",
+      "age": 29,
+      "latitude": -19.924087,
+      "longitude": -43.963583
+    },
+    {
+      "id": 4,
+      "name": "Maria",
+      "sex": "f",
+      "age": 32,
+      "latitude": -19.923356,
+      "longitude": -43.988546
+    },
+    {
+      "id": 5,
+      "name": "Luiz",
+      "sex": "m",
+      "age": 42,
+      "latitude": -19.924267,
+      "longitude": -43.960413
+    },
+    {
+      "id": 6,
+      "name": "Ana",
+      "sex": "f",
+      "age": 24,
+      "latitude": -19.930753,
+      "longitude": -43.946256
+    }
+  ]
+}
